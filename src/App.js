@@ -12,7 +12,7 @@ function App() {
     <>
       <NaviBar />
       <Main />
-      <AboutSec />
+      <AboutSec className="d-none" />
       <Services />
       <Footer />
     </>
